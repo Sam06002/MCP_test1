@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sam06002-mcp-test1-badge.png)](https://mseep.ai/app/sam06002-mcp-test1)
+
 # MCP Outlet Management Demo
 
 This is a prototype demonstrating the "change outlet name" workflow using the Model Context Protocol (MCP). The demo includes a mock backend, MCP server, and client script.
